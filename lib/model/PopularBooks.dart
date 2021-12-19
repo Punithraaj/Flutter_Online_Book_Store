@@ -1,6 +1,6 @@
 // ignore_for_file: file_names
 
-import 'package:flutter_online_book_store/screen/model/Books.dart';
+import 'package:flutter_online_book_store/model/Books.dart';
 
 class PopularBooks extends Books {
   PopularBooks({

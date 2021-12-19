@@ -1,8 +1,11 @@
+// ignore_for_file: file_names
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_online_book_store/screen/BookScreen.dart';
 import 'package:flutter_online_book_store/screen/HomeScreen.dart';
+import 'package:flutter_online_book_store/screen/SettingsScreen.dart';
 import 'package:flutter_online_book_store/utils/utility.dart';
 import 'package:persistent_bottom_nav_bar/persistent-tab-view.dart';
 
@@ -60,14 +63,7 @@ class _MainScreenState extends State<MainScreen> {
     return [
       HomeScreen(),
       BookScreen(),
-      Scaffold(
-        body: Center(
-          child: Text(
-            "Setting",
-            style: TextStyle(fontSize: 35),
-          ),
-        ),
-      )
+      UserSettingsScreen(),
     ];
   }
 

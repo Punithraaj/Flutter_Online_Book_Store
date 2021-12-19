@@ -1,8 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_online_book_store/screen/model/Books.dart';
-import 'package:flutter_online_book_store/screen/model/PopularBooks.dart';
+import 'package:flutter_online_book_store/model/Books.dart';
 import 'package:flutter_online_book_store/utils/utility.dart';
 
 import 'avatar_image.dart';

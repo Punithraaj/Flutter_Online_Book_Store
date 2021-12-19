@@ -1,7 +1,7 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:flutter_online_book_store/screen/model/LatestBooks.dart';
-import 'package:flutter_online_book_store/screen/model/PopularBooks.dart';
+import 'package:flutter_online_book_store/model/LatestBooks.dart';
+import 'package:flutter_online_book_store/model/PopularBooks.dart';
 import 'package:flutter_online_book_store/utils/utility.dart';
 import 'package:flutter_online_book_store/widgets/avatar_image.dart';
 import 'package:flutter_online_book_store/widgets/book_card.dart';
