@@ -1,16 +1,30 @@
 # flutter_online_book_store
 
-A new Flutter project.
+On our E-commerce app #UI has three pages one for the Home page which has a horizontal list of categories then a list of our products. Second Page has a tab view which shows the Latest and Popular books. Final page has the user setting view.
 
-## Getting Started
+## [Watch it on YouTube](https://www.youtube.com/watch?v=yXmQKBA5ppE&list=PL6vcAuTKAaYdRkc_jt08x23plwGAYiGTU)
 
-This project is a starting point for a Flutter application.
+**Packages we are using:**
 
-A few resources to get you started if this is your first Flutter project:
+- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screens it contains:
+
+=> Home Screen
+
+=> Books Screen
+
+=> User Settings Screen
+
+Now it contains all the screen, thanks for your love and support 🙏 
+
+## Photos
+![Preview](/1.png)
+![Preview](2.png)
+![Preview](3.png)
+![Preview](4.png)
+![Preview](5.png)
+![Preview](6.png)
+![Preview](7.png)
+
