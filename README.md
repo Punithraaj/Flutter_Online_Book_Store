@@ -23,8 +23,5 @@ Now it contains all the screen, thanks for your love and support 🙏
 ![Preview](/Ui1.png)
 ![Preview](Ui2.png)
 ![Preview](Ui3.png)
-![Preview](4.png)
-![Preview](5.png)
-![Preview](6.png)
-![Preview](7.png)
+![Preview](Ui4.png)
 
