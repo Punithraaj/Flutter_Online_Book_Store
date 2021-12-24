@@ -25,7 +25,7 @@ On our E-commerce app #UI has three pages one for the Home page which has a hori
 Now it contains all the screen, thanks for your love and support 🙏 
 
 ## Photos
-![Preview](/Ui1.png)
+![Preview](/Ui11.png)
 ![Preview](Ui2.png)
 ![Preview](Ui3.png)
 ![Preview](Ui4.png)
