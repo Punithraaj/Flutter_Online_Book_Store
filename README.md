@@ -7,6 +7,11 @@ On our E-commerce app #UI has three pages one for the Home page which has a hori
 **Packages we are using:**
 
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
+-   multiavatar: [link](https://pub.dev/packages/multiavatar)
+-   font_awesome_flutter: [link](https://pub.dev/packages/font_awesome_flutter)
+-   badges: [link](https://pub.dev/packages/badges)
+-   persistent_bottom_nav_bar: [link](https://pub.dev/packages/persistent_bottom_nav_bar)
+-   settings_ui: [link](https://pub.dev/packages/settings_ui)
 
 
 ## Screens it contains:
